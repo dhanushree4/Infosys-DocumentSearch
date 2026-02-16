@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+python-dotenv
+streamlit
+pypdf
+pymupdf
+unstructured
+pdfminer.six
+unstructured-pytesseract
+unstructured-inference
+langchain-huggingface
+sentence-transformers
